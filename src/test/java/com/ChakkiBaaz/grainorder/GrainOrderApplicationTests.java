@@ -1,0 +1,13 @@
+package com.ChakkiBaaz.grainorder;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class GrainOrderApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}
